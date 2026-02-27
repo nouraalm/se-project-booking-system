@@ -2,4 +2,4 @@
 
 Team members: Noura Almethen, Moddie Almowsherji, Shikhah Almandeel.
 
-Deliverables are organized by folder (proposal, team-agreement, uml, etc.)
+Key folders: /docs, /tests, /meeting-notes
