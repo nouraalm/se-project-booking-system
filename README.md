@@ -1,5 +1,5 @@
 # Campus Room & Equipment Booking System
 
-Team members: Name1, Name2, Name3
+Team members: Noura Almethen, Moddie Almowsherji, Shikhah Almandeel.
 
 Deliverables are organized by folder (proposal, team-agreement, uml, etc.)
