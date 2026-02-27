@@ -1,4 +1,4 @@
-# Campus Room & Equipment Booking System
+# SE Project
 
 Team members: Noura Almethen, Moddie Almowsherji, Shikhah Almandeel.
 
